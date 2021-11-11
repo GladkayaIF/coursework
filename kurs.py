@@ -102,7 +102,7 @@ if __name__ == '__main__':
     path_save = "C:/Users/axata/PycharmProjects/pythonProject/res"
     vk_token = '958eb5d439726565e9333aa30e50e0f937ee432e927f0dbd541c541887d919a7c56f95c04217915c32008'
 
-    ya_token = 'AQAAAABTfL9dAADLW4iuuyZ4A0iPlQie49HjMxU'
+    ya_token = ''
     vk_id = '552934290'
 
     vk_client = VkUser(vk_token, '5.131')
